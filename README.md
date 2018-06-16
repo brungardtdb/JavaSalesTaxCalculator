@@ -1,1 +1,1 @@
-# JavaSalesTaxCalculator
+# This is a sales tax calculator written in the Java programming language for an assignment in my "Foundations of Computing" class. It's nothing too fancy, just a console app that performs a basic calculation with some pre-determined values. First Java program, so I'm still very proud of it!!!
